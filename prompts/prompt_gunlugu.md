@@ -71,5 +71,5 @@ Bu dosya, proje geliştirme sürecinde bir yapay zekâ kodlama asistanına veril
 ## 12. Prompt — Teslim destek dosyaları
 - Adım: Sonuç konsolidasyonu ve dokümantasyon
 - Amaç: Sonuçları rapor yazımına uygun özet tablolara dönüştürmek ve teslim dosyalarını hazırlamak.
-- Kısa özet: KPI özeti, araştırma sorusu özeti ve segment yorumlama tablolarını üret; segment sayısı grafiğini çiz; README'yi ve prompt günlüğünü tamamla.
+- Kısa özet: KPI özeti, araştırma sorusu özeti ve segment yorumlama tablolarını üret; segment sayısı grafiğini çiz.
 - Üretilen çıktı: `project_kpi_summary.csv`, `research_question_summary.csv`, `segment_interpretation.csv`, `customer_segments_count.png`, güncellenmiş `README.md`.
