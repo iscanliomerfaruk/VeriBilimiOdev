@@ -1,0 +1,7 @@
+Load the raw dataset into the notebook and inspect it.
+
+- Load the file from data/raw/ into a dataframe (support CSV or a multi-sheet Excel workbook).
+- Inspect: shape, head, tail, info, describe, dtypes, missing values per column, and duplicate count.
+- Note the expected columns (InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country) and summarize the initial data-quality issues you notice.
+
+Goal: understand the raw data before cleaning.

@@ -1,0 +1,8 @@
+Create customer-level RFM features from the cleaned dataset.
+
+- Use a reference date of one day after the latest InvoiceDate.
+- Recency = days since the customer's last purchase; Frequency = number of unique invoices; Monetary = total spend.
+- Inspect the RFM table (shape, summary, missing values, duplicate customers) and save it to outputs/tables/rfm_features.csv.
+- Briefly explain what R, F, and M mean and why RFM is useful for segmentation.
+
+Goal: a customer-level feature table for clustering.

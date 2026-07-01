@@ -1,0 +1,7 @@
+Explore product revenue and numeric order behavior.
+
+- Research question 3 - which products generate the highest revenue? Build a top-10 products table (StockCode, Description, Quantity, TotalPrice) and a bar plot.
+- Research question 4 - what do the numeric variables show? Summarize Quantity, UnitPrice, and TotalPrice, and add a histogram and a correlation heatmap.
+- Save the tables and figures, and add a short interpretation for each question.
+
+Goal: answer the product and numeric EDA questions.

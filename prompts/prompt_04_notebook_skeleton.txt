@@ -1,0 +1,7 @@
+Create the main analysis notebook skeleton at notebooks/online_retail_project.ipynb.
+
+- Add section headers for: project overview, imports, raw data loading, initial inspection, and dataset notes.
+- Add an imports cell (pandas, numpy, matplotlib.pyplot, seaborn).
+- In the overview, note that later sections will cover cleaning, EDA, and clustering.
+
+Goal: a clear notebook structure to build on.

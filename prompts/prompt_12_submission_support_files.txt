@@ -1,0 +1,7 @@
+Consolidate the results and prepare the submission support files.
+
+- Build summary tables: project KPIs, a research-question summary, and a segment interpretation table; add a customer-count-by-segment figure.
+- Complete README.md (title, student info, goal, dataset name/source/license, install and run instructions, main libraries, outputs, and limitations).
+- Write the Turkish prompt log (prompts/prompt_gunlugu.md) with 10-15 concise, real prompt entries in chronological order.
+
+Goal: turn the analysis outputs into a submission-ready package.

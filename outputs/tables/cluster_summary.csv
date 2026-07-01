@@ -1,0 +1,5 @@
+Cluster,SegmentLabel,CustomerCount,MeanRecency,MeanFrequency,MeanMonetary
+0,Inactive low-value customers,1973,394.95,1.38,317.08
+1,Recent moderate customers,1250,28.3,3.05,857.49
+2,High-value loyal customers,1196,27.71,19.28,10731.16
+3,Lapsed higher-spend customers,1459,230.07,5.06,1948.5

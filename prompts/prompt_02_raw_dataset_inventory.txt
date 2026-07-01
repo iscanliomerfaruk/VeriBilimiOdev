@@ -1,0 +1,6 @@
+Place the raw Online Retail II dataset into the project.
+
+- Find the dataset file in the project root (CSV or Excel).
+- Copy it into data/raw/ with a clear name (online_retail_ii.csv) and keep the original unchanged.
+
+Goal: the raw dataset available at a stable path for the notebook.

@@ -1,0 +1,8 @@
+Segment customers with a simple K-Means model on the RFM features.
+
+- Transform the features with log1p and standardize them.
+- Try k = 2..6, record inertia and silhouette, and save the metrics plus the elbow and silhouette plots.
+- Pick a defensible k, train the final model with random_state=42, and label the clusters.
+- Save the segmented customers and the cluster summary, add cluster scatter/bar plots, and interpret each segment. Note that the clustering is exploratory.
+
+Goal: an interpretable customer segmentation.

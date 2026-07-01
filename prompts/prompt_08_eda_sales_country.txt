@@ -1,0 +1,7 @@
+Explore sales over time and revenue by country.
+
+- Research question 1 - how do total sales change over time? Build a monthly revenue and invoice-count table and a line plot.
+- Research question 2 - which countries generate the highest revenue? Build a top-10 countries table and a bar plot.
+- Save the tables to outputs/tables/ and the figures to outputs/figures/, and add a short interpretation for each question.
+
+Goal: answer the first two EDA questions.

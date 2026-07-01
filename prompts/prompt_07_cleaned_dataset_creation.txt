@@ -1,0 +1,8 @@
+Create the cleaned transaction-level dataset.
+
+- Convert InvoiceDate to datetime and fix the column dtypes.
+- Remove: missing CustomerID rows, cancellation invoices, Quantity <= 0, UnitPrice <= 0, and exact duplicates.
+- Add TotalPrice = Quantity * UnitPrice.
+- Save the result to data/processed/online_retail_cleaned.csv and briefly explain each cleaning decision.
+
+Goal: a clean dataset for EDA and modeling.

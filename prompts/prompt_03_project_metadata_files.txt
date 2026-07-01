@@ -1,0 +1,6 @@
+Create the basic project metadata files.
+
+- requirements.txt with: pandas, numpy, matplotlib, seaborn, scikit-learn, openpyxl, jupyter.
+- README.md with: project title, student info, a short goal, dataset name (UCI Online Retail II), source (UCI Machine Learning Repository), license (CC BY 4.0), run instructions, and the main libraries.
+
+Goal: minimal, submission-ready project documentation.

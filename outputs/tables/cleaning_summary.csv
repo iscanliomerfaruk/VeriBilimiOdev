@@ -1,0 +1,7 @@
+Issue name,Number of affected rows,Percentage of total rows
+Missing CustomerID,243007,22.77
+Missing Description,4382,0.41
+Duplicate rows,34335,3.22
+Cancellation invoices,19494,1.83
+Quantity <= 0,22950,2.15
+UnitPrice <= 0,6207,0.58

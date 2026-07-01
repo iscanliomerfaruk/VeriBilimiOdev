@@ -1,0 +1,7 @@
+Diagnose the data-quality issues before cleaning.
+
+- Keep the raw dataframe available as df_raw.
+- Count these issues: missing CustomerID, missing Description, exact duplicate rows, cancellation invoices (InvoiceNo starting with "C"), Quantity <= 0, and UnitPrice <= 0.
+- Save a summary table (issue, affected rows, percentage of total) to outputs/tables/cleaning_summary.csv.
+
+Goal: quantify what needs to be cleaned.

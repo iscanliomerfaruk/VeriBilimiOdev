@@ -1,0 +1,6 @@
+Create the project folder structure for a data science project.
+
+- Create these folders: data/raw, data/processed, notebooks, outputs/figures, outputs/tables, reports, prompts.
+- Keep the structure minimal and do not add extra folders.
+
+Goal: a clean workspace ready for the dataset and the analysis notebook.
